@@ -1,4 +1,4 @@
-This project contains a Google Colab (ipynb) notebook for analyzing the sales of cars in the US. 
+This project contains a Google Colab (ipynb) notebook for analyzing the sales of cars in the US. (Group Project).
 In order to view the notebook, install the ipynb file on google colab. 
 (Or you can access the link below)
 
